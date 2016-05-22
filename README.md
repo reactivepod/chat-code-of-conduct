@@ -54,3 +54,6 @@ If a participant engages in harassing behavior, the administrators may take any 
 ---
 
 **_Note:_** This Code of Conduct is an adaption of the [LGBTQ in Tech CoC](http://lgbtq.technology/coc.html).
+
+You can become a member of Reactive Podcast Chat by registering [here](https://reactive-slack.herokuapp.com/).
+
