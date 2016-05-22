@@ -37,7 +37,7 @@ Jokes that resemble the above, such as "hipster racism", still count as harassme
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Reporting
-If you are being harassed by a member of Reactive Podcast Chat, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing /admin <your message> in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Reactive Podcast Chat, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing `/admin <your message>` in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Reactive Podcast Chat spaces, but if you are being harassed by a member of Reactive Podcast Chat outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Reactive Podcast Chat members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Reactive Podcast Chat based on their past behavior, including behavior outside Reactive Podcast Chat spaces and behavior towards people who are not in Reactive Podcast Chat.
 
