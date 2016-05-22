@@ -51,4 +51,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all Reactive Podcast Chat spaces and identification of the participant as a harasser to other Reactive Podcast Chat members or the general public.
 
-_Note:_ This Code of Conduct is an adaption of the [LGBTQ in Tech CoC](http://lgbtq.technology/coc.html).
+**_Note:_** This Code of Conduct is an adaption of the [LGBTQ in Tech CoC](http://lgbtq.technology/coc.html).
