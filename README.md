@@ -1,6 +1,6 @@
 # Reactive Podcast Chat Code of Conduct
 
-_Note:_ "Reactive Podcast Chat" in this document refers to the Reactive Podcast Chat Slack organization at [reactivepodcast.slack.com](http://reactivepodcast.slack.com). "The administrators" refers to the administrators on this organization, a list is available at the top of the [Team Directory](http://reactive-podcast.slack.com/team) (must be a member of the organization to view).
+**_Note:_** "Reactive Podcast Chat" in this document refers to the Reactive Podcast Chat Slack organization at [reactivepodcast.slack.com](http://reactivepodcast.slack.com). "The administrators" refers to the administrators on this organization, a list is available at the top of the [Team Directory](http://reactive-podcast.slack.com/team) (must be a member of the organization to view).
 
 Reactive Podcast Chat is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -50,5 +50,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all Reactive Podcast Chat spaces and identification of the participant as a harasser to other Reactive Podcast Chat members or the general public.
+
+---
 
 **_Note:_** This Code of Conduct is an adaption of the [LGBTQ in Tech CoC](http://lgbtq.technology/coc.html).
