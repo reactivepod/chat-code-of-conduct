@@ -1,6 +1,6 @@
 # Reactive Podcast Chat Code of Conduct
 
-_Note:_ "Reactive Podcast Chat" in this document refers to the Reactive Podcast Chat Slack organization at [reactivepodcast.slack.com](http://reactive-podcast.slack.com). "The administrators" refers to the administrators on this organization, a list is available at the top of the [Team Directory](http://reactive-podcast.slack.com/team) (must be a member of the organization to view).
+_Note:_ "Reactive Podcast Chat" in this document refers to the Reactive Podcast Chat Slack organization at [reactivepodcast.slack.com](http://reactivepodcast.slack.com). "The administrators" refers to the administrators on this organization, a list is available at the top of the [Team Directory](http://reactive-podcast.slack.com/team) (must be a member of the organization to view).
 
 Reactive Podcast Chat is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
